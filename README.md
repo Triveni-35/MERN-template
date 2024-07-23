@@ -1,14 +1,14 @@
 # Template-MERN-Stack  (required packages will be mentioned in requirements.txt )
 A general template that has functional Login, Registration, Contact pages
 
-To run
-create your database and include MONGODB_URI AND JWT_SECTRET_KEY IN .env
-cd server
-npm start
+To run <br>
+create your database and include MONGODB_URI AND JWT_SECTRET_KEY IN .env  <br>
+cd server  <br>
+npm start <br> <br>
 
-cd frontend
-cd client
-npm run dev 
+cd frontend  <br>
+cd client  <br>
+npm run dev  <br>
 
 Few Samples : 
 ![image](https://github.com/user-attachments/assets/2b282598-4ac3-4d4d-988f-5887b93c5b54)
